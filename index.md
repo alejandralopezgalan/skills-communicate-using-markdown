@@ -10,7 +10,16 @@
 ![image](https://github.com/user-attachments/assets/4a1d1059-88d5-46bf-abbf-e11d019d6a7b)
 
 
+### Adding a code example
 
+``` python
+# Python Program to convert temperature in celsius to fahrenheit
+celsius = 25
+
+# Calculate fahrenheit
+fahrenheit = (celsius * 1.8) + 32
+print('%0.1f degree Celsius is equal to %0.1f degree Fahrenheit' %(celsius,fahrenheit))
+```
 
 
 Note: Changed this file
