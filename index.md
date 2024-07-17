@@ -21,5 +21,10 @@ fahrenheit = (celsius * 1.8) + 32
 print('%0.1f degree Celsius is equal to %0.1f degree Fahrenheit' %(celsius,fahrenheit))
 ```
 
+### Creating a list
+- [x] Create my GitHub account
+- [x] Edit my intro and main page
+- [x] Keep taking a few courses to learn to use Github
+- [ ] Upload my projects to create a portfolio
 
-Note: Changed this file
+###### Note: Changed this file
